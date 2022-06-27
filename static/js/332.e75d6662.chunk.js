@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkapp=self.webpackChunkapp||[]).push([[332],{332:function(e,r,a){a.r(r),a.d(r,{default:function(){return s}});var n=a(184);function s(){return(0,n.jsxs)("div",{children:[(0,n.jsx)("p",{className:"font-bold text-2xl",children:"Welcome to our search Page!"}),(0,n.jsx)("span",{children:"You can search whatever you want from various sources limited to Stackoverflow"})]})}}}]);
+//# sourceMappingURL=332.e75d6662.chunk.js.map
